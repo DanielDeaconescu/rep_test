@@ -1,0 +1,15 @@
+PROIECTE: cand deschide o poza de la un proiect, sa poata vedea mai multe poze de la acel proiect in lucru
+
+galerie pe categorii
+
+de refacut iPad Pro
+
+scoate padding pe section-container pt Index
+
+de revenit asupra paginii Index pentru iPad Pro, de facut imbunatatiri si de scapat de spatiul gol
+
+de luat pozele de la parteneri si de facut ca ele sa aiba acelasi hue/ saturation --> nu se poate face 
+
+cand dau click in afara meniului la telefoane, sa imi inchida meniul
+
+Veka-->linia ei, iar in locul ei punem aluplast
